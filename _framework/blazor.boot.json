@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Autumn_websitev2",
   "resources": {
-    "hash": "sha256-tihgb1kP+HRSYZjqJC7vBtTP/BJfJ636teqHNK4hkqo=",
+    "hash": "sha256-Ak/NRnEYFSLv4GqyBrF2FoWUci+AQY/rRG0qWVzzgDI=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.pqh5tzes5o.js": "sha256-wx71hMYbiuNY53h2cJk+DM1ZKXOIYi5Pjk3fdZpm5TA="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Autumn_websitev2.wasm": "sha256-9FmeaALWI6fR5lQ+oc09/GaYk8Izv3pHCP9a8tAgpsU=",
+      "Autumn_websitev2.wasm": "sha256-GUf/UOt70LFziSvZpSPnekJUtgiAiJlXGInwkA5A1x4=",
       "LeafletForBlazor.wasm": "sha256-7/LMzFymETcVLu/8YhGX0s6gEFtoS03exQouXl8uYCY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-mLnf2dNVXC4EriLez3IuTSlOCIWZneGnHqO9ydemXOQ=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-zHTkqN8duE5S+fZQQKVnNFumqyg6d6BMIzGYRqnL7F4=",
